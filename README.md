@@ -1,2 +1,4 @@
 # Simple-TCP-ChatRoomGui
-Gui version of https://www.youtube.com/watch?v=3UOyky9sEQY
+You need to change ip adresses in python files in order to make it work, make sure to put a port who isn't use, by default the ip will be localhost so only accessible by you
+
+![image](https://github.com/Ikytsu/Simple-TCP-ChatRoomGui/assets/155775453/a526c2c7-2996-4eb3-a9c0-e1670490613e)
